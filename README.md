@@ -1,1 +1,1 @@
-[OpenMod4Africa Wiki](openmod4africa.github.io/wiki/)
+Wiki URL: [OpenMod4Africa Wiki](https://openmod4africa.github.io/wiki/)
