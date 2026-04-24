@@ -75,8 +75,8 @@ nav:
   - Datasets / Layers:
     - methodology-of-data-collection.md
     - open-data-repository.md
-  - Calculation Modules (CMs):
-  - Learning Center:
+  # - Calculation Modules (CMs):
+  # - Learning Center:
   - For Developers:
     - how-to-edit-this-wiki.md
     - developers-section.md
