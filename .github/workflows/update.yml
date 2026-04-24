@@ -16,11 +16,11 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v3
         with:
-          repository: ${{github.repository}}
+          repository: openmod4africa/wiki
       - name: Check out wiki
         uses: actions/checkout@v3
         with:
-          repository: ${{github.repository}}.wiki
+          repository: openmod4africa/wiki.wiki
           path: 'docs'
       - run: mv docs/Home.md docs/index.md
       - run: cp custom.css docs/
