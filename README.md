@@ -1,1 +1,1 @@
-[Citiwatts Wiki](https://citiwatts.github.io/wiki/)
+[OpenMof4Africa Wiki](https://openmod4africa.github.io/wiki/)
